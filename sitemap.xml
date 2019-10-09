@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/project/internal-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/tags/machine-learning-algorithms/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/project/internal-project-copy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/project/external-project-copy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/tags/semiconductors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/project/external-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://people.eecs.berkeley.edu/~jquenum/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

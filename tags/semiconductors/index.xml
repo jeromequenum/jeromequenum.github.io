@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semiconductors on Jerome Quenum | EECS at UC Berkeley</title>
+    <link>https://people.eecs.berkeley.edu/~jquenum/tags/semiconductors/</link>
+    <description>Recent content in Semiconductors on Jerome Quenum | EECS at UC Berkeley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://people.eecs.berkeley.edu/~jquenum/tags/semiconductors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microelectronics / Device Fabrication</title>
+      <link>https://people.eecs.berkeley.edu/~jquenum/project/internal-project-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.eecs.berkeley.edu/~jquenum/project/internal-project-copy/</guid>
+      <description>&lt;p&gt;•  Designed and implemented Semiconductor Device  Fabrication methods for Integrated Circuits (ICs) with Dr. Daniels.&lt;/p&gt;
+
+&lt;p&gt;•  Designed and constructed an automatic mini solar tracker with Dr. Mogren.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
