@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Jerome Quenum | EECS at UC Berkeley</title>
-    <link>https://people.eecs.berkeley.edu/~jquenum/publication/</link>
+    <link>https://jeromequenum.github.io/publication/</link>
     <description>Recent content in Publications on Jerome Quenum | EECS at UC Berkeley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~jquenum/publication/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jeromequenum.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
