@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jerome Quenum | EECS at UC Berkeley</title>
-    <link>https://people.eecs.berkeley.edu/~jquenum/project/</link>
+    <link>https://jeromequenum.github.io/project/</link>
     <description>Recent content in Projects on Jerome Quenum | EECS at UC Berkeley</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="https://people.eecs.berkeley.edu/~jquenum/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://jeromequenum.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Machine Learning / Deep Learning / CNN / DNN</title>
-      <link>https://people.eecs.berkeley.edu/~jquenum/project/internal-project/</link>
+      <link>https://jeromequenum.github.io/project/internal-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~jquenum/project/internal-project/</guid>
+      <guid>https://jeromequenum.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;•    Designed and implemented Facial Recognition / Facial Expression Recognition classifiers using Machine Learning Algorithms (KNN, SVM, Naïve Bayes &amp;hellip; etc) with Dr. Babadi.&lt;/p&gt;
 
 &lt;p&gt;•    Implemented Spectral Clustering and K-means Algorithms on various data set.&lt;/p&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>Microelectronics / Device Fabrication</title>
-      <link>https://people.eecs.berkeley.edu/~jquenum/project/internal-project-copy/</link>
+      <link>https://jeromequenum.github.io/project/internal-project-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~jquenum/project/internal-project-copy/</guid>
+      <guid>https://jeromequenum.github.io/project/internal-project-copy/</guid>
       <description>&lt;p&gt;•  Designed and implemented Semiconductor Device  Fabrication methods for Integrated Circuits (ICs) with Dr. Daniels.&lt;/p&gt;
 
 &lt;p&gt;•  Designed and constructed an automatic mini solar tracker with Dr. Mogren.&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Physics and Telecoms</title>
-      <link>https://people.eecs.berkeley.edu/~jquenum/project/external-project-copy/</link>
+      <link>https://jeromequenum.github.io/project/external-project-copy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~jquenum/project/external-project-copy/</guid>
+      <guid>https://jeromequenum.github.io/project/external-project-copy/</guid>
       <description>&lt;p&gt;•  Designed a module allowing to use Cell phones as a remote to control and monitor houses and cars using Pic Basic microcontroller.&lt;/p&gt;
 
 &lt;p&gt;• Studied the Energy approach of the raindrop problem (Lagrangian Approach) with Dr. Li.&lt;/p&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title>Signal Processing</title>
-      <link>https://people.eecs.berkeley.edu/~jquenum/project/external-project/</link>
+      <link>https://jeromequenum.github.io/project/external-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://people.eecs.berkeley.edu/~jquenum/project/external-project/</guid>
+      <guid>https://jeromequenum.github.io/project/external-project/</guid>
       <description>&lt;p&gt;•    Designed and implemented FIR, IIR, Notch Filters&amp;hellip; etc  for Audio signal processing (Denoising) with Dr. Liu.&lt;/p&gt;
 
 &lt;p&gt;•    Designed and implemented Image Compression algorithms for Signal Processing (Quantization table and DCT) with Dr. Liu.&lt;/p&gt;
